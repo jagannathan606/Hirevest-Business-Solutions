@@ -182,6 +182,8 @@
   }
 
   .contact-section .info-box{
+    margin-left: -3rem;
+    width: 30rem;
     margin-bottom: 40px;
   }
 }
