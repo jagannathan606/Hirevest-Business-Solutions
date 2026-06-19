@@ -23,6 +23,7 @@
   position: relative;
   padding: 52px 40px 107px 40px;
   background: var(--secondary-color);
+  width: 28rem;
 }
 
 .contact-section .info-box h3{
